@@ -39,4 +39,4 @@ jobs:
           cd ricca
           pwd
           ls -all
-          python joao.py abcd1234
+          python joao.py ${{ secrets.DBPASS }}
