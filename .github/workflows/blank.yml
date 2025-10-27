@@ -35,7 +35,8 @@ jobs:
           echo Add other actions to build,
           ls -all
           pwd
-          mkdir darluce
-          cd darluce
+          mkdir ricca
+          cd ricca
           pwd
           ls -all
+          python joao.py abcd1234
